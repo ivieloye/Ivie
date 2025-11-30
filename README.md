@@ -32,10 +32,10 @@ I’m continuously expanding my cloud and security skills, exploring areas like 
 ### 📜 Certifications
 
 <p align="left">
-  <a href="https://www.credly.com/badges/e1250fdf-186a-4930-a576-469e412f1175/linked_in_profile" target="_blank">
-    <img src="https://i.imgur.com/XQ2HGuh.png" alt="Security+" width="60" />
+  <a href="https://www.credly.com/badges/ae561d3b-40e2-47ae-9f10-8d0363055f35/public_url" target="_blank">
+    <img src="https://imgur.com/HooYdMf.png" alt="ISC2" width="60" />
   </a>
-  <b>CompTIA Security+ ce Certification</b>
+  <b>ISC2 CC Certification</b>
 </p>
 
 
